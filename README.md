@@ -1,2 +1,5 @@
-# fcc-exercise-tracker
-My exercise tracker for Free Code Camp
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
